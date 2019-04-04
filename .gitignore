@@ -1,0 +1,7 @@
+node_modules/
+report*/
+bin/
+screenshots/
+selenium-server*
+**/*.log
+itemTitle.json
